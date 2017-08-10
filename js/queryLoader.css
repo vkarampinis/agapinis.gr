@@ -1,0 +1,30 @@
+.QOverlay {
+	background-color: #000000;
+	background-color: #ece0bc;
+	z-index: 9999;
+}
+
+.QLoader {
+	background-color: #ece0bc;
+	height: 1px;
+
+}
+
+.QAmt {
+	color:#6c5445;
+	font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	line-height:50px;
+	height:55px;
+	width:210px;
+	text-align: right;
+	margin:-60px 0 0 -50px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+
+.loading {
+visibility:hidden;
+}
