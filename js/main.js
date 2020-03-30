@@ -57,7 +57,7 @@ $(document).ready(function() {
 	  });
 	},
 	click: function() {
-		window.open('http://www.facebook.com/profile.php?id=100002886298667', '_blank');
+		window.open('https://www.facebook.com/Agapinis', '_blank');
 	}
   });
 });
